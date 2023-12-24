@@ -45,8 +45,3 @@ This project is licensed under custom terms that allow you to view and run the s
 
 ## Disclaimer
 This is a student project and is intended for educational purposes only. The authors are not responsible for any misuse or damages caused by the software.
-
-## Acknowledgments
-We would like to thank everyone who contributed to the development and testing of this application.
-
-```
