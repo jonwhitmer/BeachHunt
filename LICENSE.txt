@@ -1,0 +1,29 @@
+Beach Hunt License
+
+Copyright (c) 2022 Jon Whitmer
+
+All rights reserved.
+
+License Grant:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the "Beach Hunt" command prompt application and associated documentation files (the "Application"), to deal in the Application without restriction, subject to the following conditions:
+
+Usage: The Application may be used to view and run as provided for personal, non-commercial purposes only.
+
+Restrictions:
+
+Modification: Users may not modify any portion of the Application.
+Distribution: Users may not distribute the Application or provide it to any third party.
+Sublicensing: Users may not sublicense or provide commercial hosting services with the Application.
+Sale: Users may not sell the Application or any derivative works.
+Disclaimer:
+
+THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE APPLICATION OR THE USE OR OTHER DEALINGS IN THE APPLICATION.
+Termination:
+
+This license is effective until terminated. The license will terminate automatically and without notice if you fail to comply with any term or condition.
+Preservation of Notices:
+
+You must ensure that all copyright and legal notices are accurately reproduced in all copies of the Application.
+End of Terms and Conditions
